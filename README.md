@@ -67,4 +67,7 @@ Top Customers: Focuses on high-value customers for targeted marketing.
 
                              Conclusion
 
-   By leveraging MySQL for data extraction and Power BI for visualization, supermarkets can  gain comprehensive insights into their sales performance. These insights, combined with   targeted strategies, can significantly boost sales and customer satisfaction. This   analysis not only highlights current performance but also provides actionable   recommendations to drive future growth.
+   By leveraging MySQL for data extraction and Power BI for visualization, supermarkets can  gain comprehensive insights into their sales performance. These insights, combined with   targeted strategies, can significantly boost sales and customer satisfaction. This   analysis not only highlights current performance but also provides actionable   recommendations to drive future growth
+             Refrence
+   Kaggle.com
+   wikipedia.org
